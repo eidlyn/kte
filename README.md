@@ -1,4 +1,4 @@
 kte
 ===
 
-This is the Kernel Terminal Editor (KTE) aka "Katie"
+This is the Kernel Terminal Editor (KTE) aka "Katy"
